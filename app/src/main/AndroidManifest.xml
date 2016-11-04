@@ -18,7 +18,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".LoginActivity" />
-        <activity android:name=".ProfileActivity"></activity>
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".HomePageActivity" />
+        <activity android:name=".AddPatientDetailsActivity" />
+        <activity android:name=".DoctorDetailsActivity" />
+        <activity android:name=".EditPatientDetailsActivity" />
+        <activity android:name=".EditDoctorDetailsActivity" />
+        <activity android:name=".ChangeTrackingRadiusActivity"></activity>
     </application>
 
 </manifest>
