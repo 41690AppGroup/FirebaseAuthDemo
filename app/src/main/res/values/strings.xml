@@ -5,4 +5,5 @@
     <string name="menu_action_edit_doctor_details">Edit Doctor Details</string>
     <string name="menu_action_change_tracking_radius">Change Tracking Radius</string>
     <string name="menu_action_logout">Logout</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
